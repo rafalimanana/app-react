@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rafalimanana/app-react/static/css/main.f7e1efb5.chunk.css",
+    "main.js": "/rafalimanana/app-react/static/js/main.8e05d0f9.chunk.js",
+    "main.js.map": "/rafalimanana/app-react/static/js/main.8e05d0f9.chunk.js.map",
+    "runtime~main.js": "/rafalimanana/app-react/static/js/runtime~main.378d44be.js",
+    "runtime~main.js.map": "/rafalimanana/app-react/static/js/runtime~main.378d44be.js.map",
+    "static/js/2.0931e701.chunk.js": "/rafalimanana/app-react/static/js/2.0931e701.chunk.js",
+    "static/js/2.0931e701.chunk.js.map": "/rafalimanana/app-react/static/js/2.0931e701.chunk.js.map",
+    "index.html": "/rafalimanana/app-react/index.html",
+    "precache-manifest.468fcad9010c55047ff7baa66337b5be.js": "/rafalimanana/app-react/precache-manifest.468fcad9010c55047ff7baa66337b5be.js",
+    "service-worker.js": "/rafalimanana/app-react/service-worker.js",
+    "static/css/main.f7e1efb5.chunk.css.map": "/rafalimanana/app-react/static/css/main.f7e1efb5.chunk.css.map"
+  }
+}
